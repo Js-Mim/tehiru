@@ -20,4 +20,5 @@ my_stereo_output = recordsimul(mono_input, sampling_frequency, desired_technique
 This is being distributed under the terms of the Gnu General Public License.
 
 MATLAB® is a registered trademark of Mathworks.
+
 For JUCE please visit : http://www.juce.com
