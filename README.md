@@ -8,7 +8,7 @@ The real-time implementation is based on the JUCE C++ class library. Alongside t
 "Builds" folder. 
 
 ## Usage
-In case that the real-time implementation is desired, either the pre-compiled version can be directly inserted into a host applications, or it can be rebuilt by acquiring proper SDKs(Steinberg's VST).
+In case that the real-time implementation is desired, either the pre-compiled version can be directly inserted into a host applications (may require Microsoft's redistributable packages), or it can be rebuilt by acquiring proper SDKs(Steinberg's VST).
 
 On the other hand, the prototype can be used in MATLAB by calling 
 the main function "recordsimul.m" i.e.:
